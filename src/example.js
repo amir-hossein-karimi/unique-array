@@ -1,4 +1,7 @@
 const uniqueArrayByKey = require(".");
 const { mockMainData } = require("./mock");
 
-uniqueArrayByKey(mockMainData);
+console.log({
+  realData: mockMainData,
+  uniqueData: uniqueArrayByKey(mockMainData, "data.location.long"),
+});

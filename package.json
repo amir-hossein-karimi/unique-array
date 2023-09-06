@@ -4,7 +4,8 @@
   "description": "unique your arrays with a key",
   "main": "src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "example": "node src/example"
   },
   "repository": {
     "type": "git",
