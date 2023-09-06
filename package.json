@@ -1,0 +1,27 @@
+{
+  "name": "unique-array",
+  "version": "1.0.0",
+  "description": "unique your arrays with a key",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amir-hossein-karimi/unique-array.git"
+  },
+  "keywords": [
+    "unique",
+    "unique-array",
+    "array"
+  ],
+  "author": "amir-hossein-karimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amir-hossein-karimi/unique-array/issues"
+  },
+  "homepage": "https://github.com/amir-hossein-karimi/unique-array#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
