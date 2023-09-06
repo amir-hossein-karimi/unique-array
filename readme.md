@@ -2,7 +2,9 @@
 unique array helps you to filter your array easy and fast
 
 <h2>Examples</h2>
+
 ```js
+
 const unique = require('unique-array-by-key');
 
 const array = [
@@ -45,6 +47,7 @@ unique(array, "id");
 for unique a nested array key
 
 ```js
+
 const unique = require('unique-array-by-key');
 
 const array = [
@@ -102,6 +105,7 @@ unique(array, "data.code");
 //         }
 //     }
 // ]
+
 
 ```
 
