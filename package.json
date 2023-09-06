@@ -1,5 +1,5 @@
 {
-  "name": "unique-array",
+  "name": "unique-array-by-key",
   "version": "1.0.0",
   "description": "unique your arrays with a key",
   "main": "src/index.js",
@@ -13,6 +13,7 @@
   "keywords": [
     "unique",
     "unique-array",
+    "unique-array-by-key",
     "array"
   ],
   "author": "amir-hossein-karimi",
